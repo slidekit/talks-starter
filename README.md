@@ -1,4 +1,4 @@
-#  Talk Starter (S6 Blank)
+#  Talks Starter (S6 Blank)
 
 Write your talks / presentations / slides in plain text
 w/ markdown formatting conventions.
@@ -73,6 +73,9 @@ That's it.
 [(Source)](blockchain.md),
 [(Slides Online)](https://slidekit.github.io/talks-starter/blockchain)
 
+**Introduction to GraphQL with Sangria**
+[(Source)](sangria.md),
+[(Slides Online)](https://slidekit.github.io/talks-starter/sangria)
 
 
 
