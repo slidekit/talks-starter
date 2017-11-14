@@ -10,10 +10,10 @@ Ready-to-use (fork/clone) minamal setup - uses the [jekyll talks theme](https://
 
 ## Usage
 
-Add a new markdown page e.g `sample.md`.
-Note: Change the layout to `talk` - will "automagically"
-turn your notes into slides and include the S6 blank templates
-and slideshow machinery:
+Add a new markdown page e.g [`starter.md`](starter.md).
+Change the layout to `talk` in the front matter (meta data) block
+will "automagically" turn your notes into slides and include the S6 blank templates
+and slideshow machinery. Example:
 
 
 ``` yaml
@@ -30,7 +30,7 @@ layout:    talk
 Use heading 1s `#` or heading 2s `##` for starting new slides. Example:
 
 
-``` md
+```
 # In the morning
 
 ## Getting up
