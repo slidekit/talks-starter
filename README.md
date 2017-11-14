@@ -1,3 +1,7 @@
+> Note: Looks like the Jekyll Remote Theme beta test is over. No longer works :-(  
+> The generated pages are switching (falling back) to the (minima) default theme. Oh well. Looking forward when Jekyll Remote Themes hits the road.
+
+
 #  Talks Starter (S6 Blank)
 
 Write your talks / presentations / slides in plain text
