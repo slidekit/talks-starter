@@ -1,5 +1,5 @@
 ---
-title:     Starter Sample (S6 Blank Theme) - Habits
+title:     Habits - Starter Sample (S6 Blank Theme)
 author:    John Doe
 date:      November 11, 2017
 
@@ -10,9 +10,9 @@ layout:    talk
 
 <!--
   note: use heading 1s or heading 2s for starting new slides
--->
-
-
+  -->
+ 
+   
 # In the morning
 
 ## Getting up
