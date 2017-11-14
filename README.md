@@ -3,17 +3,18 @@
 Write your talks / presentations / slides in plain text
 w/ markdown formatting conventions.
 
-Ready-to-use (fork/clone) minamal setup - uses the [jekyll talks theme](https://github.com/slidekit/jekyll-talks-theme)
+Ready-to-use (fork/clone) minimal setup - uses the [jekyll talks theme](https://github.com/slidekit/jekyll-talks-theme)
 (using the s6 slideshow templates / machinery ) via the new remote-theme.
 
 
 
 ## Usage
 
-Add a new markdown page e.g [`starter.md`](starter.md).
-Change the layout to `talk` in the front matter (meta data) block
-will "automagically" turn your notes into slides and include the S6 blank templates
-and slideshow machinery. Example:
+Add a new page e.g [`starter.md`](starter.md).
+Change the layout to `talk` in the front matter (meta data) block to
+"automagically" turn your notes in plain text with markdown formatting conventions
+into HTML slide (using the S6 blank templates and bespoke.js-compatible slideshow machinery).
+Example:
 
 
 ``` yaml
@@ -59,6 +60,7 @@ Use heading 1s `#` or heading 2s `##` for starting new slides. Example:
 ```
 
 That's it.
+
 
 
 ## Live Samples
