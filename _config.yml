@@ -1,0 +1,9 @@
+##########################################
+# Jekyll Configuration / Settings
+
+
+plugins:
+- jekyll-remote-theme
+
+remote_theme: slidekit/jekyll-talks-theme
+
