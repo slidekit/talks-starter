@@ -1,5 +1,3 @@
-> Note: Looks like the Jekyll Remote Theme beta test is over. No longer works :-(  
-> The generated pages are switching (falling back) to the (minima) default theme. Oh well. Looking forward when Jekyll Remote Themes hits the road.
 
 
 #  Talks Starter (S6 Blank)
@@ -77,9 +75,6 @@ That's it.
 [(Source)](blockchain.md),
 [(Slides Online)](https://slidekit.github.io/talks-starter/blockchain)
 
-**Introduction to GraphQL with Sangria**
-[(Source)](sangria.md),
-[(Slides Online)](https://slidekit.github.io/talks-starter/sangria)
 
 
 
